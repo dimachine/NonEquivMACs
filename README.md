@@ -1,0 +1,2 @@
+# NonEquivMACs
+Inequivalent maximal antichains 
