@@ -4,7 +4,7 @@ This is supporing file for OEIS on computation of inequivalent maximal antichain
 ## Outline 
 
 ### 0. The basic code with the class for managing generation of formal concepts via NextClosure algorithm
-### 1. Generation of inequivalent maximal antichains for $n\in\{1,2,3,4,5,6,7\}$
+### 1. Generation of inequivalent maximal antichains for n in {1,2,3,4,5,6,7}
 ### 2. Extraction of maximal antichains from order ideals
-### 3. Generating non-singleton maximal antichains for A326360 with $n\in\{5,6,7\}$ 
-### 4. Generation of dictionaries with all inequaivalent maximal antichains along with their orbits cardinalities for $n\in\{1,2,3,4,5,6\}$
+### 3. Generating non-singleton maximal antichains for A326360 with n in {5,6,7} 
+### 4. Generation of dictionaries with all inequaivalent maximal antichains along with their orbits cardinalities for n in {1,2,3,4,5,6}
