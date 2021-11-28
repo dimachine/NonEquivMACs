@@ -16,6 +16,7 @@ This is a supporing file for OEIS on computation of inequivalent maximal anticha
 Formal Concept Analysis - Mathematical Foundations. Springer 1999, ISBN 978-3-540-62771-5, pp. I-X, 1-284
 
 * Klaus Reuter: The jump number and the lattice of maximal antichains. Discret. Math. 88(2-3): 289-307 (1991)
+https://core.ac.uk/download/pdf/82019205.pdf
 
 
 
