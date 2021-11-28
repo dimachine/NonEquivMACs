@@ -1,5 +1,5 @@
 # NonEquivMACs
-This is supporing file for OEIS on computation of inequivalent maximal antichains and related sequences
+This is a supporing file for OEIS on computation of inequivalent maximal antichains and related sequences
 
 ## Outline 
 
