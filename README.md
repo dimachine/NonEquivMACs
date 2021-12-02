@@ -10,7 +10,7 @@ This is a supporing file for OEIS on computation of inequivalent maximal anticha
 ### 4. Generation of dictionaries with all inequivalent maximal antichains along with their orbits' cardinalities for n in {1,2,3,4,5,6}
 
 
-Comment to Section 3.
+#### Comment to Section 3.
 
 The value a(7) has been computed with my code in Python provided in Section 3. To reproduce the result one needs the whole set of maximal antichains of the powerset of {1,...,7} encoded as list of integers. All the maximal antichains for n=7 in a zip archive are available in my dropbox: https://www.dropbox.com/s/uoqt939rokphnmx/allMAC7.pickle.zip (1.42 GiB). They were pickled first. To unpickle their list you need to execute the line of code: MACs7=pickle.load(open("allMAC7.pickle","rb")). Then, all the antichains with signle-element sets (i.e. single-bit integers smaller than 128) and the empty set (i.e. 0) are subject to elimination. The code has been tested for n=5 and n=6 as well.
 
